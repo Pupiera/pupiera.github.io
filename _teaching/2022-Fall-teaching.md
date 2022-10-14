@@ -2,7 +2,7 @@
 title: "Teaching experience Syntactic Analysis"
 collection: teaching
 type: "Undergraduate course (3rd year)"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-Fall-teaching
 venue: "Grenoble University, IM2AG (Computer science)"
 date: 2022-09-01
 location: "Grenoble, France"
